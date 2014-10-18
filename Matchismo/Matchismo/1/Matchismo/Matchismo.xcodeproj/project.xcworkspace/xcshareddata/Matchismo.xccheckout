@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6F14C7F-1756-4507-8CD2-303EF6AE8E47</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Matchismo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</key>
+		<string>https://github.com/Guwanjith/1.5---Matchismo-error-corrections-/trunk</string>
+		<key>D5D6B428681740C94B387123FD068562EF41215E</key>
+		<string>https://github.com/Guwanjith/1.5---Matchismo-error-corrections-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Matchismo/Matchismo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</key>
+		<string>../../..</string>
+		<key>D5D6B428681740C94B387123FD068562EF41215E</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</key>
+		<string>https://github.com/Guwanjith/1.5---Matchismo-error-corrections-</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Guwanjith/1.5---Matchismo-error-corrections-/trunk/Matchismo/Matchismo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5D6B428681740C94B387123FD068562EF41215E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
