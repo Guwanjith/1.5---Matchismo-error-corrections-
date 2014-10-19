@@ -17,6 +17,7 @@
 		F20DFADF19F2ED05007D1B03 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = F20DFADE19F2ED05007D1B03 /* Card.m */; };
 		F20DFAE319F2EECE007D1B03 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = F20DFAE219F2EECE007D1B03 /* Deck.m */; };
 		F2B83AC819F3F32200072073 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = F2B83AC719F3F32200072073 /* PlayingCard.m */; };
+		F2B932F419F3FF7A00B3D23B /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = F2B932F319F3FF7A00B3D23B /* PlayingCardDeck.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,8 @@
 		F20DFAE219F2EECE007D1B03 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Deck.m; path = Matchismo/Model/Deck.m; sourceTree = "<group>"; };
 		F2B83AC619F3F32200072073 /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCard.h; path = Matchismo/Model/PlayingCard.h; sourceTree = "<group>"; };
 		F2B83AC719F3F32200072073 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCard.m; path = Matchismo/Model/PlayingCard.m; sourceTree = "<group>"; };
+		F2B932F219F3FF7A00B3D23B /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCardDeck.h; path = Matchismo/Model/PlayingCardDeck.h; sourceTree = "<group>"; };
+		F2B932F319F3FF7A00B3D23B /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCardDeck.m; path = Matchismo/Model/PlayingCardDeck.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				F20DFAE219F2EECE007D1B03 /* Deck.m */,
 				F2B83AC619F3F32200072073 /* PlayingCard.h */,
 				F2B83AC719F3F32200072073 /* PlayingCard.m */,
+				F2B932F219F3FF7A00B3D23B /* PlayingCardDeck.h */,
+				F2B932F319F3FF7A00B3D23B /* PlayingCardDeck.m */,
 			);
 			name = Model;
 			path = ..;
@@ -247,6 +252,7 @@
 				F20DFAE319F2EECE007D1B03 /* Deck.m in Sources */,
 				F20DFAC019F2ECBC007D1B03 /* ViewController.m in Sources */,
 				F20DFABD19F2ECBC007D1B03 /* AppDelegate.m in Sources */,
+				F2B932F419F3FF7A00B3D23B /* PlayingCardDeck.m in Sources */,
 				F20DFABA19F2ECBC007D1B03 /* main.m in Sources */,
 				F20DFADF19F2ED05007D1B03 /* Card.m in Sources */,
 			);
