@@ -22,7 +22,7 @@
 		<key>948a0f98-6ef4-cfc6-4b6f-ce57b7db7bff++505</key>
 		<string>../../..</string>
 		<key>D5D6B428681740C94B387123FD068562EF41215E</key>
-		<string>../../../../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
@@ -43,7 +43,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>D5D6B428681740C94B387123FD068562EF41215E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
