@@ -21,7 +21,7 @@
 
 -(Deck *)deck
 {
-    if(!_deck)_deck = [self createDeck];
+    if(!_deck) _deck = [self createDeck];
     return _deck;
 }
 
@@ -47,6 +47,8 @@
         if (randomCard) {
             [sender setBackgroundImage:[UIImage imageNamed:@"cardfront"]forState:UIControlStateNormal];
             [sender setTitle:randomCard.contents forState:UIControlStateNormal];
+        }else{
+            NSLog(@"not in randomCardLoop");
         }
     }
     self.flipCount++;
